@@ -95,6 +95,12 @@
                   'Changes display of selections to chips'
                 ],
                 [
+                  'filter',
+                  'Function',
+                  '-',
+                  'Callback for custom filter autocomplete search'
+                ],
+                [
                   'hide-selected',
                   'Boolean',
                   'False',
